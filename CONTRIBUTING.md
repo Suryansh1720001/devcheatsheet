@@ -1,3 +1,5 @@
+![hacktoberfest](https://user-images.githubusercontent.com/85965606/194911198-fb107c24-9742-4b91-bb20-aa02061abe2d.png)
+
 # Welcome to GitHub docs Contributing Guide
 
 👉🏻Thank you for investing your time in contributing to our project! 
